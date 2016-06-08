@@ -1,4 +1,4 @@
-city,name,country,main_religion_2008,is--city,latitude,longitude,another_new_column
+city_new,name,country,main_religion_2008,is--city,latitude,longitude,another_new_column
 hkg,"Hong Kong, China",hkg,eastern_religions,TRUE,22.28552,114.15769,another new value
 UA_63,Kharkiv,ukr,christian,TRUE,50.004444,36.231389,
 UA_30,Kiev,ukr,christian,TRUE,50.45,30.523333,another new value
